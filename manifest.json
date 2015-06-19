@@ -1,6 +1,6 @@
 {
-  "name": "Download XYZ's site subscribed videos",
-  "description": "Script to download all purchased content by a subscriber.",
+  "name": "Download content",
+  "description": "Script to download available content on RubyTapas screencast webpage",
   "version": "0.1",
   "minimum_chrome_version": "16.0.884",
   "permissions": ["downloads", "<all_urls>"],
