@@ -2,9 +2,7 @@
 
 #### Downloads links(with content) on current webpage.
 	
-This extension aims at downloading content automatically from any [Rubytapas](https://www.rubytapas.com) screencast page.
-
-	Note: This only works for subscribed users.
+This extension aims at downloading content automatically from any [Rubytapas](https://www.rubytapas.com) screencast page. This only works for subscribed users.
 
 
 	Inspiration!!!
@@ -16,5 +14,6 @@ This extension aims at downloading content automatically from any [Rubytapas](ht
 	given screencast webpage.
 	This chrome extension aims at downloading all those content links
 	automatically once browser action button is clicked.
-
+	(Other perfect solutions may exist as well)
+	
 
